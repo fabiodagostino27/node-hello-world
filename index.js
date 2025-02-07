@@ -1,1 +1,3 @@
-console.log("Hello Boolean")
+const log = process.argv[2];
+
+console.log(log)
